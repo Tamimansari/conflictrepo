@@ -26,6 +26,24 @@
         "date_of_commit": "30 - 1 - 2024",
         "time_of_commit": "15:50:52"
       }
+    ],
+    "file/t1.txt": [
+      {
+        "msg": "fnjebj",
+        "type_of_commit": "Bug_Fix",
+        "fileName": "t1.txt",
+        "date_of_commit": "30 - 1 - 2024",
+        "time_of_commit": "18:21:12"
+      }
+    ],
+    "file/test.txt": [
+      {
+        "msg": "dnjne",
+        "type_of_commit": "Bug_Fix",
+        "fileName": "test.txt",
+        "date_of_commit": "30 - 1 - 2024",
+        "time_of_commit": "18:21:23"
+      }
     ]
   }
 }
