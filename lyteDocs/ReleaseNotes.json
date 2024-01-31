@@ -164,5 +164,16 @@
         "time_of_commit": "17:18:53"
       }
     ]
+  },
+  "1.0.2": {
+    "package.json": [
+      {
+        "msg": "Version update",
+        "type_of_commit": "Feature",
+        "fileName": "package.json",
+        "date_of_commit": "31 - 1 - 2024",
+        "time_of_commit": "17:23:26"
+      }
+    ]
   }
 }
