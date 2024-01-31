@@ -120,6 +120,15 @@
         "date_of_commit": "31 - 1 - 2024",
         "time_of_commit": "16:40:31"
       }
+    ],
+    "UserCommitMsg/temp.txt": [
+      {
+        "msg": "deleted",
+        "type_of_commit": "Bug_Fix",
+        "fileName": "temp.txt",
+        "date_of_commit": "31 - 1 - 2024",
+        "time_of_commit": "16:41:42"
+      }
     ]
   }
 }
