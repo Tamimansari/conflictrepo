@@ -53,6 +53,13 @@
         "fileName": "newfile.txt",
         "date_of_commit": "31 - 1 - 2024",
         "time_of_commit": "15:00:39"
+      },
+      {
+        "msg": "new1.txt",
+        "type_of_commit": "Bug_Fix",
+        "fileName": "newfile.txt",
+        "date_of_commit": "31 - 1 - 2024",
+        "time_of_commit": "16:40:50"
       }
     ],
     "file/t1.txt": [
@@ -84,7 +91,7 @@
         "type_of_commit": "Bug_Fix",
         "fileName": "test.txt",
         "date_of_commit": "31 - 1 - 2024",
-        "time_of_commit": "13:36:21"
+        "time_of_commit": "16:41:08"
       }
     ],
     "cityname.txt": [
@@ -103,6 +110,15 @@
         "fileName": "new1.txt",
         "date_of_commit": "31 - 1 - 2024",
         "time_of_commit": "15:00:30"
+      }
+    ],
+    "file/cityname.txt": [
+      {
+        "msg": "jdbejhgv",
+        "type_of_commit": "Bug_Fix",
+        "fileName": "cityname.txt",
+        "date_of_commit": "31 - 1 - 2024",
+        "time_of_commit": "16:40:31"
       }
     ]
   }
