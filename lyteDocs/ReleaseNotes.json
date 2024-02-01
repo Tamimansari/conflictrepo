@@ -267,7 +267,7 @@
         "type_of_commit": "Bug_Fix",
         "fileName": "test.txt",
         "date_of_commit": "1 - 2 - 2024",
-        "time_of_commit": "18:13:36"
+        "time_of_commit": "18:54:55"
       }
     ],
     "file/newfile1.txt": [
@@ -276,24 +276,15 @@
         "type_of_commit": "Bug_Fix",
         "fileName": "newfile1.txt",
         "date_of_commit": "1 - 2 - 2024",
-        "time_of_commit": "18:17:57"
+        "time_of_commit": "18:18:57"
       },
       {
         "msg": "testing only",
         "type_of_commit": "Bug_Fix",
         "fileName": "newfile1.txt",
         "date_of_commit": "1 - 2 - 2024",
-        "time_of_commit": "18:18:57"
-      },
-      [
-        {
-          "msg": "testing only",
-          "type_of_commit": "Bug_Fix",
-          "fileName": "newfile1.txt",
-          "date_of_commit": "1 - 2 - 2024",
-          "time_of_commit": "18:27:05"
-        }
-      ]
+        "time_of_commit": "19:00:17"
+      }
     ]
   }
 }
