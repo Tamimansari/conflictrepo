@@ -277,6 +277,13 @@
         "fileName": "newfile1.txt",
         "date_of_commit": "1 - 2 - 2024",
         "time_of_commit": "18:17:57"
+      },
+      {
+        "msg": "testing only",
+        "type_of_commit": "Bug_Fix",
+        "fileName": "newfile1.txt",
+        "date_of_commit": "1 - 2 - 2024",
+        "time_of_commit": "18:18:57"
       }
     ]
   }
