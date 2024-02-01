@@ -263,18 +263,18 @@
     ],
     "file/test.txt": [
       {
-        "msg": "tsting vchanged",
-        "type_of_commit": "Bug_Fix",
-        "fileName": "test.txt",
-        "date_of_commit": "1 - 2 - 2024",
-        "time_of_commit": "18:54:55"
-      },
-      {
         "msg": "test vchanged temp",
         "type_of_commit": "Bug_Fix",
         "fileName": "test.txt",
         "date_of_commit": "1 - 2 - 2024",
         "time_of_commit": "19:35:19"
+      },
+      {
+        "msg": "tsting vchanged",
+        "type_of_commit": "Bug_Fix",
+        "fileName": "test.txt",
+        "date_of_commit": "1 - 2 - 2024",
+        "time_of_commit": "19:36:28"
       }
     ],
     "file/newfile1.txt": [
