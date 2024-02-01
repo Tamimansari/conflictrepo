@@ -272,7 +272,7 @@
     ],
     "file/newfile1.txt": [
       {
-        "msg": "testing only",
+        "msg": "testing ai only",
         "type_of_commit": "Bug_Fix",
         "fileName": "newfile1.txt",
         "date_of_commit": "1 - 2 - 2024",
@@ -284,7 +284,16 @@
         "fileName": "newfile1.txt",
         "date_of_commit": "1 - 2 - 2024",
         "time_of_commit": "19:00:17"
-      }
+      },
+      [
+        {
+          "msg": "testing only",
+          "type_of_commit": "Bug_Fix",
+          "fileName": "newfile1.txt",
+          "date_of_commit": "1 - 2 - 2024",
+          "time_of_commit": "19:03:17"
+        }
+      ]
     ]
   }
 }
