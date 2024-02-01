@@ -217,6 +217,15 @@
         "date_of_commit": "1 - 2 - 2024",
         "time_of_commit": "13:07:53"
       }
+    ],
+    "file/n8.txt": [
+      {
+        "msg": "new file added",
+        "type_of_commit": "Bug_Fix",
+        "fileName": "n8.txt",
+        "date_of_commit": "1 - 2 - 2024",
+        "time_of_commit": "16:57:54"
+      }
     ]
   }
 }
